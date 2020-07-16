@@ -3,7 +3,7 @@
 👩🏻‍🔬I am a Director at [Spectra](https://sospectra.com) and studied computer science at [Chabot College](http://www.chabotcollege.edu/). 
 
 
-💖💕Loves boba, Disney, Broadway, Coding, and currently Cooking!
+💖💕Loves Boba, Disney, Broadway, Coding, and currently Hiking!
 
 
 ## Let's connect online!
