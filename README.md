@@ -1,4 +1,14 @@
-### Hi there 👋
+## 👋👩🏻‍💻Hi! Welcome to my GitHub Profile Page 🥰
+
+👩🏻‍🔬I am a Director at [Spectra](https://sospectra.com) and studied computer science at [Chabot College](http://www.chabotcollege.edu/). 
+
+
+💖💕Loves boba, Disney, Broadway, Coding, and currently Cooking!
+
+
+## Let's connect online!
+[twitter](twitter.com/sbarakitkat) | [instagram](instagram.com/samarkitkat) | [linkedin](linkedin.com/in/sbarakikat) |
+
 
 <!--
 **samkitkat/samkitkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
