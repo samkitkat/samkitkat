@@ -7,7 +7,7 @@
 
 
 ## Let's connect online!
-[twitter](https://twitter.com/sbarakitkat) | [instagram](https://instagram.com/samarkitkat) | [linkedin](https://linkedin.com/in/sbarakikat) |
+[twitter](https://twitter.com/sbarakitkat) | [linkedin](https://linkedin.com/in/sbarakikat) |
 
 
 <!--
