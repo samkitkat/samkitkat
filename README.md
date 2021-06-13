@@ -1,13 +1,11 @@
 ## 👋👩🏻‍💻Hi! Welcome to my GitHub Profile Page 🥰
 
-👩🏻‍🔬I am a Director at [Spectra](https://sospectra.com) and studied computer science at [Chabot College](http://www.chabotcollege.edu/). 
 
-
-💖💕Loves Boba, Disney, Broadway, Coding, and currently Hiking!
+💖💕I Love Boba, Disney, Broadway, Coding, and currently Hiking!
 
 
 ## Let's connect online!
-[twitter](https://twitter.com/sbarakitkat) | [linkedin](https://linkedin.com/in/sbarakikat) |
+[twitter](https://twitter.com/sbarakitkat) | [linkedin](https://linkedin.com/in/sbarakikat)
 
 
 <!--
