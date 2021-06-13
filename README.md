@@ -1,7 +1,7 @@
 ## 👋👩🏻‍💻Hi! Welcome to my GitHub Profile Page 🥰
 
 
-💖💕I Love Boba, Disney, Broadway, Coding, and currently Hiking!
+💖💕I Love Boba, Disney, Broadway, Coding, and Hiking!
 
 
 ## Let's connect online!
