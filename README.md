@@ -1,7 +1,7 @@
 ## 👋👩🏻‍💻Hi! Welcome to my GitHub Profile Page 🥰
 
 
-💖💕In my free time I love to drink [Boba](https://twitter.com/samkitkat_/status/1379207293057699842?s=20&t=lQw9jHmHvlB0GW7coMjB2A), [Code](https://twitter.com/samkitkat_/status/1439868772676816899?s=20&t=lQw9jHmHvlB0GW7coMjB2A), and [Hike](https://twitter.com/samkitkat_/status/1501027965739708418?s=20&t=lQw9jHmHvlB0GW7coMjB2A)! I also do the occasional [twitch](https://www.twitch.tv/samkitkat) livestream 📹
+💖💕In my free time I love to drink [boba](https://twitter.com/samkitkat_/status/1379207293057699842?s=20&t=lQw9jHmHvlB0GW7coMjB2A), [code](https://twitter.com/samkitkat_/status/1439868772676816899?s=20&t=lQw9jHmHvlB0GW7coMjB2A), and [hike](https://twitter.com/samkitkat_/status/1501027965739708418?s=20&t=lQw9jHmHvlB0GW7coMjB2A)! I also do the occasional [twitch](https://www.twitch.tv/samkitkat) livestream 📹
 
 ## Let's connect online!
 [twitter](https://twitter.com/sbarakitkat) | [linkedin](https://linkedin.com/in/sbarakikat) | [website (wip)](https://samkitkat.github.io/)
