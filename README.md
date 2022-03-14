@@ -1,8 +1,7 @@
 ## 👋👩🏻‍💻Hi! Welcome to my GitHub Profile Page 🥰
 
 
-💖💕I Love Boba, Disney, Broadway, Coding, and Hiking!
-
+💖💕In my free time I love to drink Boba, Code, and Hike! I also do the occasional [twitch](https://www.twitch.tv/samkitkat) livestream 📹
 
 ## Let's connect online!
 [twitter](https://twitter.com/sbarakitkat) | [linkedin](https://linkedin.com/in/sbarakikat) | [website (wip)](https://samkitkat.github.io/)
