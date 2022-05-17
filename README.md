@@ -1,11 +1,14 @@
 ## 👋👩🏻‍💻Hi! Welcome to my GitHub Profile Page 🥰
 
 
-💖💕In my free time I love to drink [boba](https://twitter.com/samkitkat_/status/1379207293057699842?s=20&t=lQw9jHmHvlB0GW7coMjB2A), [code](https://twitter.com/samkitkat_/status/1439868772676816899?s=20&t=lQw9jHmHvlB0GW7coMjB2A), and [hike](https://twitter.com/samkitkat_/status/1501027965739708418?s=20&t=lQw9jHmHvlB0GW7coMjB2A)! I also do the occasional [twitch](https://www.twitch.tv/samkitkat) livestream 📹
+💖💕In my free time I love to drink [boba](https://twitter.com/samkitkat_/status/1379207293057699842?s=20&t=lQw9jHmHvlB0GW7coMjB2A), [code](https://twitter.com/samkitkat_/status/1439868772676816899?s=20&t=lQw9jHmHvlB0GW7coMjB2A), and [hike](https://twitter.com/samkitkat_/status/1501027965739708418?s=20&t=lQw9jHmHvlB0GW7coMjB2A)! I also do the occasional co-study or coding [twitch](https://www.twitch.tv/samkitkat) livestream 📹
 
 ## Let's connect online!
-[twitter](https://twitter.com/sbarakitkat) | [linkedin](https://linkedin.com/in/sbarakikat) | [website (wip)](https://samkitkat.github.io/) | [medium](https://medium.com/@sbarakitkat)
+[twitter](https://twitter.com/sbarakitkat) | [linkedin](https://linkedin.com/in/sbarakikat) | [website (wip)](https://samkitkat.github.io/) | [medium](https://medium.com/@sbarakitkat) | [polywork](https://www.polywork.com/samkitkat)
 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">☀️ in sf <a href="https://t.co/ISvaofpj7n">pic.twitter.com/ISvaofpj7n</a></p>&mdash; samar🌿🍋 (@samkitkat_) <a href="https://twitter.com/samkitkat_/status/1524962313630982144?ref_src=twsrc%5Etfw">May 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">first time <a href="https://twitter.com/SFConservatory?ref_src=twsrc%5Etfw">@SFConservatory</a> 🌿🪴🪷🌼 <a href="https://t.co/N4vxDoW8Ak">pic.twitter.com/N4vxDoW8Ak</a></p>&mdash; samar🌿🍋 (@samkitkat_) <a href="https://twitter.com/samkitkat_/status/1511529933524246529?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--
 **samkitkat/samkitkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
