@@ -6,10 +6,6 @@
 ## Let's connect online!
 [twitter](https://twitter.com/sbarakitkat) | [linkedin](https://linkedin.com/in/sbarakikat) | [website (wip)](https://samkitkat.github.io/) | [medium](https://medium.com/@sbarakitkat) | [polywork](https://www.polywork.com/samkitkat)
 
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">☀️ in sf <a href="https://t.co/ISvaofpj7n">pic.twitter.com/ISvaofpj7n</a></p>&mdash; samar🌿🍋 (@samkitkat_) <a href="https://twitter.com/samkitkat_/status/1524962313630982144?ref_src=twsrc%5Etfw">May 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">first time <a href="https://twitter.com/SFConservatory?ref_src=twsrc%5Etfw">@SFConservatory</a> 🌿🪴🪷🌼 <a href="https://t.co/N4vxDoW8Ak">pic.twitter.com/N4vxDoW8Ak</a></p>&mdash; samar🌿🍋 (@samkitkat_) <a href="https://twitter.com/samkitkat_/status/1511529933524246529?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <!--
 **samkitkat/samkitkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
