@@ -7,9 +7,9 @@
 [twitter](https://twitter.com/sbarakitkat) | [linkedin](https://linkedin.com/in/sbarakikat) | [website (wip)](https://samkitkat.github.io/) | [medium](https://medium.com/@sbarakitkat) | [polywork](https://www.polywork.com/samkitkat)
 
 <img align="right" width="450px" height="auto" src="https://github.com/samkitkat/samkitkat/blob/master/tweet1.PNG">
-<img width="450px" height="auto" src="https://github.com/samkitkat/samkitkat/blob/master/tweet2.PNG">
+<img width="450px" height="auto" src="https://github.com/samkitkat/samkitkat/blob/master/tweet3.PNG">
 
-<img align="right" width="450px" height="auto" src="https://github.com/samkitkat/samkitkat/blob/master/tweet3.PNG">
+<img align="right" width="450px" height="auto" src="https://github.com/samkitkat/samkitkat/blob/master/tweet2.PNG">
 <img width="450px" height="auto" src="https://github.com/samkitkat/samkitkat/blob/master/tweet4.PNG">
 
 <!--
