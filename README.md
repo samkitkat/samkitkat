@@ -6,13 +6,8 @@
 ## Let's connect online!
 [twitter](https://twitter.com/sbarakitkat) | [linkedin](https://linkedin.com/in/sbarakikat) | [website (wip)](https://samkitkat.github.io/) | [medium](https://medium.com/@sbarakitkat) | [polywork](https://www.polywork.com/samkitkat)
 
-<img src="https://github.com/samkitkat/samkitkat/blob/master/tweet1.PNG"
-     alt="tweet1"
-     style="float: left; margin-right: 10px;" />
-     
-<img src="https://github.com/samkitkat/samkitkat/blob/master/tweet2.PNG"
-     alt="tweet2"
-     style="float: left; margin-right: 10px;" />
+<img align="right" width="100" height="100" src="https://github.com/samkitkat/samkitkat/blob/master/tweet1.PNG">
+<img align="left" width="100" height="100" src="https://github.com/samkitkat/samkitkat/blob/master/tweet2.PNG">
 
 <!--
 **samkitkat/samkitkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
