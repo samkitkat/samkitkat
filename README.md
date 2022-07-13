@@ -6,7 +6,7 @@
 ## Let's connect online!
 [twitter](https://twitter.com/sbarakitkat) | [linkedin](https://linkedin.com/in/sbarakikat) | [website (wip)](https://samkitkat.github.io/) | [medium](https://medium.com/@sbarakitkat) | [polywork](https://www.polywork.com/samkitkat)
 
-<img align="right" width="400px" height="auto" src="https://github.com/samkitkat/samkitkat/blob/master/tweet1.PNG">
+<img width="400px" height="auto" src="https://github.com/samkitkat/samkitkat/blob/master/tweet1.PNG">
 <img width="400px" height="auto" src="https://github.com/samkitkat/samkitkat/blob/master/tweet2.PNG">
 
 <!--
