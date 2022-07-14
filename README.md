@@ -7,6 +7,20 @@
 [twitter](https://twitter.com/sbarakitkat) | [linkedin](https://linkedin.com/in/sbarakikat) | [website (wip)](https://samkitkat.github.io/) | [medium](https://medium.com/@sbarakitkat) | [polywork](https://www.polywork.com/samkitkat)
 
 
+
+
+
+
+
+
+
+
+
+![](https://img.shields.io/twitch/status/samkitkat?style=social)
+![](https://img.shields.io/youtube/channel/views/UCDGCWGr1Fk9qwa5zIiN47NQ?style=social)
+![](https://img.shields.io/twitter/follow/samkitkat_?style=social)
+
+
 <!--
 **samkitkat/samkitkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
