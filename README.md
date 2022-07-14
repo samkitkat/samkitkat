@@ -7,10 +7,6 @@
 [twitter](https://twitter.com/sbarakitkat) | [linkedin](https://linkedin.com/in/sbarakikat) | [website (wip)](https://samkitkat.github.io/) | [medium](https://medium.com/@sbarakitkat) | [polywork](https://www.polywork.com/samkitkat)
 
 
-
-<iframe src="https://player.twitch.tv/?channel=samkitkat&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620" data-external="1"></iframe>
-
-
 <!--
 **samkitkat/samkitkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
