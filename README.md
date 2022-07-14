@@ -17,7 +17,7 @@
 [![](https://img.shields.io/twitch/status/samkitkat?style=social)](https://www.twitch.tv/samkitkat)
 [![](https://img.shields.io/youtube/channel/views/UCDGCWGr1Fk9qwa5zIiN47NQ?style=social)](https://www.youtube.com/c/samkitkat)
 [![](https://img.shields.io/twitter/follow/samkitkat_?style=social)](https://twitter.com/samkitkat_)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=samkitkat.samkitkat&left_color=black&right_color=black)
+![](https://img.shields.io/github/watchers/samkitkat/samkitkat?style=social)
 
 
 <!--
