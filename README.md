@@ -14,9 +14,9 @@
 <br >
 <br >
 
-![](https://img.shields.io/twitch/status/samkitkat?style=social)
-![](https://img.shields.io/youtube/channel/views/UCDGCWGr1Fk9qwa5zIiN47NQ?style=social)
-![](https://img.shields.io/twitter/follow/samkitkat_?style=social)
+[![](https://img.shields.io/twitch/status/samkitkat?style=social)](https://www.twitch.tv/samkitkat)
+[![](https://img.shields.io/youtube/channel/views/UCDGCWGr1Fk9qwa5zIiN47NQ?style=social)](https://www.youtube.com/c/samkitkat)
+[![](https://img.shields.io/twitter/follow/samkitkat_?style=social)](https://twitter.com/samkitkat_)
 
 
 <!--
