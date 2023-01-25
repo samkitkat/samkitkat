@@ -1,4 +1,4 @@
-![](https://github.com/samkitkat/samkitkat/blob/master/banner.png)
+![](https://github.com/samkitkat/samkitkat/blob/master/banner1.png)
 ## 👋👩🏻‍💻Hi! Welcome to my GitHub Profile Page 🥰
 
 
